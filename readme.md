@@ -34,3 +34,6 @@ to get Finals - call `getFinals`, returns `True` if current state after some ops
 
 # TESTS
 
+Did test cases with unittest for "1101", "1110", "1111", constraint were not provided.
+<img width="572" alt="Снимок экрана 2022-06-22 в 14 24 42" src="https://user-images.githubusercontent.com/76645526/175142785-27712eb7-c5f3-4b8c-8358-b183cab79d03.png">
+
